@@ -1,0 +1,9 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "Membuat front end bank simple jsp",
+  "main": "index.js",
+  "repository": "https://github.com/mojila/jsp-bank-simple.git",
+  "author": "aji",
+  "license": "MIT"
+}
